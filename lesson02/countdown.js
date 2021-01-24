@@ -1,4 +1,4 @@
-// log 21, countdown and stop at 0
+// Lesson 02-02: log 21, countdown and stop at 0
 
 for (let i = 21; i >= 0; i--) {
   console.log(i)
