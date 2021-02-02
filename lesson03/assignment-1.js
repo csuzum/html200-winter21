@@ -1,5 +1,6 @@
-// create array with at least 5 strings
+// creat array with at least 5 strings
 let sashimi = ['maguro', 'sake', 'amaiebi', 'saba', 'tako', 'hotate'];
+  console.log(sashimi);
 
 // add element to end of the array
 sashimi.push('hamachi');
@@ -9,6 +10,7 @@ sashimi.push('hamachi');
 sashimi.splice(2, 1);
   console.log(sashimi);
 
-// create string of elements seperated by commas
+// creat string of elements seperated by commas
 let sashimiList = sashimi.join(', ');
+
   console.log(sashimiList);
