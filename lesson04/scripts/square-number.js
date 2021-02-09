@@ -1,7 +1,6 @@
-let input = prompt('Enter a number');
 
-function squareNumber(x) {
-  x = x * x;
-  alert(x);
+function squareNumber(input) {
+  total = input * input;
+  alert(total);
 }
 squareNumber(input);
